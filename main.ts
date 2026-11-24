@@ -1,6 +1,9 @@
 import { mkdirSync, writeFileSync } from "node:fs";
 
-// One-line joke about office life.
+// Why this joke: the request itself is the trap — asking to be removed
+// via reply-all invites the exact thing it tries to stop, and 47 people
+// reply-all to agree, so the punchline (the ironic twist) lands in the
+// last words: the escape attempt becomes the thread's biggest reply-all.
 const joke =
   "I replied-all to ask to be removed from the thread, and 47 people replied-all to agree with me.";
 
